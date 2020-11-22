@@ -10,3 +10,5 @@ cp rc/.screenrc ~/
 # docker-compose 명령어의 alias 를 등록합니다
 echo "alias d=\"docker-compose\"" >> ~/.bashrc
 echo "export EDITOR=\"vim\"" >> ~/.bashrc
+
+source ~/.bashrc
