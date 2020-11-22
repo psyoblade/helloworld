@@ -1,2 +1,2 @@
 test of remote repository
-
+.
