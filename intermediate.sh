@@ -11,4 +11,7 @@ cp rc/.screenrc ~/
 echo "alias d=\"docker-compose\"" >> ~/.bashrc
 echo "export EDITOR=\"vim\"" >> ~/.bashrc
 
+# course 이름 변수를 등록합니다
+echo "export course=\"intermediate\"" >> ~/.bashrc
+
 source ~/.bashrc
